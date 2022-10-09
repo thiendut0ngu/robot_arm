@@ -1,10 +1,3 @@
-"""
-Inverse kinematics for an n-link arm using the Jacobian inverse method
-
-Author: Daniel Ingram (daniel-s-ingram)
-        Atsushi Sakai (@Atsushi_twi)
-"""
-
 import numpy as np
 import sys
 from pathlib import Path
